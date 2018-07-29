@@ -1,4 +1,6 @@
 
+**Use https://github.com/s12v/awsbeats for AWS logs delivery to Elasticsearch via Firehose**
+
 beats plugin experiment (copy-paste from https://github.com/elastic/beats/tree/master/libbeat/outputs/elasticsearch)
 
 ```
